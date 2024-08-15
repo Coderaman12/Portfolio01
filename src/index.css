@@ -1,0 +1,33 @@
+@font-face {
+    font-family: icomoon;
+    src: url(../font/icomoon.woff);
+}
+@font-face {
+    font-family: sm;
+    src: url(../font/Satoshi-Light.ttf);
+}
+@font-face {
+    font-family: grotesk1;
+    src: url(../font/FoundersGrotesk-Semibold.woff);
+}
+@font-face {
+    font-family: grotest2;
+    src: url(../font/FoundersGrotesk-Semibold.woff2);
+}
+@font-face {
+    font-family: extra;
+    src: url(../font/pxiEyp8kv8JHgFVrJJfecg.woff2);
+}
+@font-face {
+    font-family: nm;
+    src: url(../font/NeueMontreal-Regular.woff);
+}
+@font-face {
+    font-family: nm2;
+    src: url(../font/NeueMontreal-Regular.woff2);
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
